@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AshwinIsHappy
-- you can call me ash
+- you can call me Sidhu
 
 <!---
 AshwinIsHappy/AshwinIsHappy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
